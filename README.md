@@ -1,4 +1,4 @@
-# Hey there!
+# 👋 Hey there!
 
 I'm Ilnar Khasanov, a Python Backend Developer based in Karlsruhe, Germany.
 
