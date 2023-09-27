@@ -28,6 +28,6 @@ I'm Ilnar Khasanov, a Python Backend Developer from Karlsruhe, Germany.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khasanov1988&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Khasanov1988&label=Profile%20views&color=red&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Khasanov1988&label=Profile%20views&color=green&style=flat)
 
 Thank you for visiting my GitHub page. Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding! 🚀
