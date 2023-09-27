@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm Ilnar Khasanov, a Python Backend Developer based in Karlsruhe, Germany.
+I'm Ilnar Khasanov, a Python Backend Developer from Karlsruhe, Germany.
 
 ## 🔧 Technologies & Tools
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
